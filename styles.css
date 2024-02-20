@@ -38,8 +38,14 @@ pre code {
 }
 
 section {
-  border-radius: 20px;
-  padding: 10px;
-  margin-bottom: 20px;
-  background-color: #6f6f6f;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #6f6f6f;
 }
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+    
